@@ -1,0 +1,20 @@
+﻿  Zaborrak.c
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(61,42): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(39,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(84,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(84,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(96,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(96,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(100,83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(108,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(108,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(112,83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(120,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(120,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(124,83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(179,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(180,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(189,46): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(192,46): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\PBL_proba\Zaborrak.c(196,46): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  PBL_proba.vcxproj -> C:\Users\Aritz\Desktop\Infor\Program1\PBL_proba\x64\Debug\PBL_proba.exe
