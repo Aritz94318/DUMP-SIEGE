@@ -1,0 +1,97 @@
+﻿  HIL_PANTAILA.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HIL_PANTAILA.c(20,5): warning C4013: 'renderRectangulo' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HIL_PANTAILA.c(23,5): warning C4013: 'renderText' sin definir; se supone que extern devuelve como resultado int
+  Input-ak.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(28,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(29,23): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(114,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(115,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(124,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(125,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(133,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(134,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(143,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Input-ak.c(144,46): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Interfazea.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Interfazea.c(25,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Interfazea.c(26,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  Irudiak.c
+  Jaurtigaiak.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(27,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(39,31): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(35,20): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(72,38): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(101,60): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(101,96): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(114,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Jaurtigaiak.c(119,26): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+  JOKOA.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(25,5): warning C4013: 'renderGrid' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(38,25): warning C4020: 'renderEntity': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(58,9): warning C4013: 'tiroegin' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(64,5): warning C4013: 'renderMouseSquare' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(65,5): warning C4013: 'renderSelection' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(67,5): warning C4013: 'renderBullets' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(68,5): warning C4013: 'moveBullets' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(70,5): warning C4013: 'processBullets' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(71,5): warning C4013: 'barrak_renderizatu' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(74,9): warning C4013: 'renderizarPestana' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\JOKOA.c(76,5): warning C4013: 'renderBlackButton' sin definir; se supone que extern devuelve como resultado int
+  main.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(66,12): warning C4026: función declarada con lista de parámetros formales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(76,60): warning C4020: 'SDL_CreateWindow': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(78,9): warning C4013: 'initializeGrid' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(79,9): warning C4013: 'generateRandomPath' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(80,9): warning C4013: 'zuhaitzak' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(81,9): warning C4013: 'argazkiak' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(132,43): warning C4244: 'función': conversión de 'double' a 'Uint32'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\main.c(138,5): warning C4013: 'argazkiak_itxi' sin definir; se supone que extern devuelve como resultado int
+  Mapa.c
+  HASIERAMENUA.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(13,5): warning C4013: 'renderRectangulo' sin definir; se supone que extern devuelve como resultado int
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(22,100): warning C4020: 'renderText': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(23,107): warning C4020: 'renderText': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(24,124): warning C4020: 'renderText': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(25,124): warning C4020: 'renderText': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(38,55): warning C4020: 'renderText': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(40,75): warning C4020: 'renderText': hay demasiados parámetros reales
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\HASIERAMENUA.c(42,68): warning C4020: 'renderText': hay demasiados parámetros reales
+  Renderizatu.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(12,46): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(12,71): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(13,27): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(13,52): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(14,52): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(14,77): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(15,27): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(15,58): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(16,52): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(16,83): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(17,21): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(17,52): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(18,46): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(18,77): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(19,21): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Renderizatu.c(19,46): warning C4244: 'función': conversión de 'float' a 'int'; posible pérdida de datos
+  Testua_renderizatu.c
+  Zaborrak.c
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(61,42): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(39,24): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(84,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(84,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(96,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(96,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(100,83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(108,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(108,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(112,83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(120,56): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(120,92): warning C4244: 'inicializando': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(124,83): warning C4244: 'inicializando': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(179,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(180,34): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(189,46): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(192,46): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Aritz\Downloads\PBL_proba - copia - copia\PBL_proba\Zaborrak.c(196,46): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+  Generando código...
+  PBL_proba.vcxproj -> C:\Users\Aritz\Downloads\PBL_proba - copia - copia\x64\Debug\PBL_proba.exe
